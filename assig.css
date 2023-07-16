@@ -1,0 +1,252 @@
+
+
+.fullsection{
+    margin: 0px 100px;
+
+}
+
+/* <!-- header area here --> */
+
+.headerarea{
+    display: flex;
+
+}
+
+.about{
+    display: flex;
+    margin: auto;
+    gap: 15px;
+}
+
+.bannerarea{
+    background-color:white;
+    display: flex;
+    padding: 10px 0px;
+}
+
+.buttonarea{
+    height: 30px;
+    padding: 0px 18px;
+    border-radius: 16px;
+    background-color: tomato;
+    color: white;
+}
+.buttonarea:hover{
+    background-color: black;
+    color: white;
+}
+
+.textarea{
+    font-size:40px;
+    margin: auto;
+
+}
+
+.textarea p{
+    font-size: 20px;
+    text-align: left;
+}
+
+.image{
+    /* padding: 25px 200px; */
+    margin: auto;
+
+}
+
+
+/* logo section ara here */
+
+.logo{
+    background-color: orangered;
+    margin: 0px 80px;
+
+}
+
+/* area 2 */
+
+.section-title{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin: 0px 25px;
+}
+
+.service-section{
+    background-color: tomato;
+    height: 810px;
+    padding: 80px 0px;
+
+}
+.white{
+    background-color: white;
+    padding: 30px 40px;
+    border-radius: 50px;
+
+}
+
+.image-container{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+} 
+
+.view{
+    background-color: blue;
+    border-radius: 16px;
+    color: white;
+    display: flex;
+    margin: auto;
+    padding: 11px 25px;
+    
+}
+
+.view:hover{
+background-color: black;
+color: white;
+}
+
+.image-container img{
+    width: 150px;
+
+}
+
+.service-container{
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.devolop{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px ;
+    padding: 7px;
+}
+
+.clear{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px ;
+    padding: 7px ;
+}
+
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+
+}
+
+/* <!-- area 3 --> */
+.iconarea{
+    background-color: white;
+    display: flex;
+    gap: 60px;
+    padding: 10px 0px;
+    font-size: 3vh;
+}
+
+.iconarea h1{
+font-size: 40px;
+
+
+}
+
+.iconarea p{
+text-align: left;
+
+}
+
+.fontstyle{
+    padding:0px 18px;
+
+}
+
+/* area 4 */
+
+.colorarea{
+    height: 200px;
+    background-color: tomato;
+    display: flex;
+
+}
+
+.colorhead{
+    color: white;
+    margin: auto;
+    font-size: 40px;
+
+}
+.colorhead p{
+    font-size: 17px;
+}
+
+.texthead{
+    display: flex;
+    color: white;
+    gap: 350px;
+    padding: 0px 35px;
+    margin: -30px;
+}
+ 
+/* area 6 */
+
+.colorarealast{
+    background-color: blue;
+    height: 200px;
+    
+}
+
+.colorhead5{
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+}
+.colorhead5 h1{
+color: white;
+
+}
+
+.box{
+    border-radius: 13px;
+    height: 25px;
+    padding: 0px 40px;
+}
+
+/* footer are here */
+.footerarea{
+    height: 120px;
+    background-color: black;
+}
+
+.footerarea p{
+    color: white;
+    padding: 50px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
